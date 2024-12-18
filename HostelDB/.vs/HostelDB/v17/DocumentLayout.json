@@ -1,0 +1,456 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bogda\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmin\u0027\\c\u002B\u002B\\HostelDB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE65F58-9933-4685-A84E-ADB88334BCA4}|HostelDB\\HostelDB.csproj|c:\\users\\bogda\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmin\u0027\\c\u002B\u002B\\hosteldb\\hosteldb\\tableforms\\roomform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DE65F58-9933-4685-A84E-ADB88334BCA4}|HostelDB\\HostelDB.csproj|solutionrelative:hosteldb\\tableforms\\roomform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE65F58-9933-4685-A84E-ADB88334BCA4}|HostelDB\\HostelDB.csproj|c:\\users\\bogda\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmin\u0027\\c\u002B\u002B\\hosteldb\\hosteldb\\tableforms\\staffform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DE65F58-9933-4685-A84E-ADB88334BCA4}|HostelDB\\HostelDB.csproj|solutionrelative:hosteldb\\tableforms\\staffform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE65F58-9933-4685-A84E-ADB88334BCA4}|HostelDB\\HostelDB.csproj|c:\\users\\bogda\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmin\u0027\\c\u002B\u002B\\hosteldb\\hosteldb\\tableforms\\paymentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2DE65F58-9933-4685-A84E-ADB88334BCA4}|HostelDB\\HostelDB.csproj|solutionrelative:hosteldb\\tableforms\\paymentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE65F58-9933-4685-A84E-ADB88334BCA4}|HostelDB\\HostelDB.csproj|c:\\users\\bogda\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmin\u0027\\c\u002B\u002B\\hosteldb\\hosteldb\\tableforms\\residentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DE65F58-9933-4685-A84E-ADB88334BCA4}|HostelDB\\HostelDB.csproj|solutionrelative:hosteldb\\tableforms\\residentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE65F58-9933-4685-A84E-ADB88334BCA4}|HostelDB\\HostelDB.csproj|c:\\users\\bogda\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmin\u0027\\c\u002B\u002B\\hosteldb\\hosteldb\\tableforms\\residentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2DE65F58-9933-4685-A84E-ADB88334BCA4}|HostelDB\\HostelDB.csproj|solutionrelative:hosteldb\\tableforms\\residentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE65F58-9933-4685-A84E-ADB88334BCA4}|HostelDB\\HostelDB.csproj|c:\\users\\bogda\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmin\u0027\\c\u002B\u002B\\hosteldb\\hosteldb\\tableforms\\residentsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DE65F58-9933-4685-A84E-ADB88334BCA4}|HostelDB\\HostelDB.csproj|solutionrelative:hosteldb\\tableforms\\residentsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE65F58-9933-4685-A84E-ADB88334BCA4}|HostelDB\\HostelDB.csproj|c:\\users\\bogda\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmin\u0027\\c\u002B\u002B\\hosteldb\\hosteldb\\tableforms\\paymentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DE65F58-9933-4685-A84E-ADB88334BCA4}|HostelDB\\HostelDB.csproj|solutionrelative:hosteldb\\tableforms\\paymentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE65F58-9933-4685-A84E-ADB88334BCA4}|HostelDB\\HostelDB.csproj|c:\\users\\bogda\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmin\u0027\\c\u002B\u002B\\hosteldb\\hosteldb\\tableforms\\regestrationsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DE65F58-9933-4685-A84E-ADB88334BCA4}|HostelDB\\HostelDB.csproj|solutionrelative:hosteldb\\tableforms\\regestrationsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE65F58-9933-4685-A84E-ADB88334BCA4}|HostelDB\\HostelDB.csproj|C:\\Users\\bogda\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmin\u0027\\c\u002B\u002B\\HostelDB\\hosteldb\\tableforms\\regestrationsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2DE65F58-9933-4685-A84E-ADB88334BCA4}|HostelDB\\HostelDB.csproj|solutionrelative:hosteldb\\tableforms\\regestrationsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE65F58-9933-4685-A84E-ADB88334BCA4}|HostelDB\\HostelDB.csproj|c:\\users\\bogda\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmin\u0027\\c\u002B\u002B\\hosteldb\\hosteldb\\tableforms\\passesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DE65F58-9933-4685-A84E-ADB88334BCA4}|HostelDB\\HostelDB.csproj|solutionrelative:hosteldb\\tableforms\\passesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE65F58-9933-4685-A84E-ADB88334BCA4}|HostelDB\\HostelDB.csproj|C:\\Users\\bogda\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmin\u0027\\c\u002B\u002B\\HostelDB\\hosteldb\\tableforms\\passesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2DE65F58-9933-4685-A84E-ADB88334BCA4}|HostelDB\\HostelDB.csproj|solutionrelative:hosteldb\\tableforms\\passesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE65F58-9933-4685-A84E-ADB88334BCA4}|HostelDB\\HostelDB.csproj|c:\\users\\bogda\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmin\u0027\\c\u002B\u002B\\hosteldb\\hosteldb\\tableforms\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DE65F58-9933-4685-A84E-ADB88334BCA4}|HostelDB\\HostelDB.csproj|solutionrelative:hosteldb\\tableforms\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE65F58-9933-4685-A84E-ADB88334BCA4}|HostelDB\\HostelDB.csproj|c:\\users\\bogda\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmin\u0027\\c\u002B\u002B\\hosteldb\\hosteldb\\tableforms\\maintanceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DE65F58-9933-4685-A84E-ADB88334BCA4}|HostelDB\\HostelDB.csproj|solutionrelative:hosteldb\\tableforms\\maintanceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE65F58-9933-4685-A84E-ADB88334BCA4}|HostelDB\\HostelDB.csproj|c:\\users\\bogda\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmin\u0027\\c\u002B\u002B\\hosteldb\\hosteldb\\tableforms\\maintanceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2DE65F58-9933-4685-A84E-ADB88334BCA4}|HostelDB\\HostelDB.csproj|solutionrelative:hosteldb\\tableforms\\maintanceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE65F58-9933-4685-A84E-ADB88334BCA4}|HostelDB\\HostelDB.csproj|C:\\Users\\bogda\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmin\u0027\\c\u002B\u002B\\HostelDB\\hosteldb\\tableforms\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2DE65F58-9933-4685-A84E-ADB88334BCA4}|HostelDB\\HostelDB.csproj|solutionrelative:hosteldb\\tableforms\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE65F58-9933-4685-A84E-ADB88334BCA4}|HostelDB\\HostelDB.csproj|c:\\users\\bogda\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmin\u0027\\c\u002B\u002B\\hosteldb\\hosteldb\\tableforms\\staffform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2DE65F58-9933-4685-A84E-ADB88334BCA4}|HostelDB\\HostelDB.csproj|solutionrelative:hosteldb\\tableforms\\staffform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE65F58-9933-4685-A84E-ADB88334BCA4}|HostelDB\\HostelDB.csproj|c:\\users\\bogda\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmin\u0027\\c\u002B\u002B\\hosteldb\\hosteldb\\tableforms\\rulesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DE65F58-9933-4685-A84E-ADB88334BCA4}|HostelDB\\HostelDB.csproj|solutionrelative:hosteldb\\tableforms\\rulesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE65F58-9933-4685-A84E-ADB88334BCA4}|HostelDB\\HostelDB.csproj|c:\\users\\bogda\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmin\u0027\\c\u002B\u002B\\hosteldb\\hosteldb\\tableforms\\rulesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2DE65F58-9933-4685-A84E-ADB88334BCA4}|HostelDB\\HostelDB.csproj|solutionrelative:hosteldb\\tableforms\\rulesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE65F58-9933-4685-A84E-ADB88334BCA4}|HostelDB\\HostelDB.csproj|C:\\Users\\bogda\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmin\u0027\\c\u002B\u002B\\HostelDB\\hosteldb\\tableforms\\roomform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2DE65F58-9933-4685-A84E-ADB88334BCA4}|HostelDB\\HostelDB.csproj|solutionrelative:hosteldb\\tableforms\\roomform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE65F58-9933-4685-A84E-ADB88334BCA4}|HostelDB\\HostelDB.csproj|c:\\users\\bogda\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmin\u0027\\c\u002B\u002B\\hosteldb\\hosteldb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DE65F58-9933-4685-A84E-ADB88334BCA4}|HostelDB\\HostelDB.csproj|solutionrelative:hosteldb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE65F58-9933-4685-A84E-ADB88334BCA4}|HostelDB\\HostelDB.csproj|c:\\users\\bogda\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmin\u0027\\c\u002B\u002B\\hosteldb\\hosteldb\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DE65F58-9933-4685-A84E-ADB88334BCA4}|HostelDB\\HostelDB.csproj|solutionrelative:hosteldb\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE65F58-9933-4685-A84E-ADB88334BCA4}|HostelDB\\HostelDB.csproj|c:\\users\\bogda\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmin\u0027\\c\u002B\u002B\\hosteldb\\hosteldb\\mainform\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DE65F58-9933-4685-A84E-ADB88334BCA4}|HostelDB\\HostelDB.csproj|solutionrelative:hosteldb\\mainform\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE65F58-9933-4685-A84E-ADB88334BCA4}|HostelDB\\HostelDB.csproj|C:\\Users\\bogda\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmin\u0027\\c\u002B\u002B\\HostelDB\\hosteldb\\mainform\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2DE65F58-9933-4685-A84E-ADB88334BCA4}|HostelDB\\HostelDB.csproj|solutionrelative:hosteldb\\mainform\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE65F58-9933-4685-A84E-ADB88334BCA4}|HostelDB\\HostelDB.csproj|c:\\users\\bogda\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmin\u0027\\c\u002B\u002B\\hosteldb\\hosteldb\\tableforms\\maintanceform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DE65F58-9933-4685-A84E-ADB88334BCA4}|HostelDB\\HostelDB.csproj|solutionrelative:hosteldb\\tableforms\\maintanceform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE65F58-9933-4685-A84E-ADB88334BCA4}|HostelDB\\HostelDB.csproj|c:\\users\\bogda\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmin\u0027\\c\u002B\u002B\\hosteldb\\hosteldb\\tableforms\\staffform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DE65F58-9933-4685-A84E-ADB88334BCA4}|HostelDB\\HostelDB.csproj|solutionrelative:hosteldb\\tableforms\\staffform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE65F58-9933-4685-A84E-ADB88334BCA4}|HostelDB\\HostelDB.csproj|c:\\users\\bogda\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmin\u0027\\c\u002B\u002B\\hosteldb\\hosteldb\\mainform\\menuform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DE65F58-9933-4685-A84E-ADB88334BCA4}|HostelDB\\HostelDB.csproj|solutionrelative:hosteldb\\mainform\\menuform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ResidentsForm.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmin\u0027\\c\u002B\u002B\\HostelDB\\HostelDB\\TableForms\\ResidentsForm.cs",
+              "RelativeDocumentMoniker": "HostelDB\\TableForms\\ResidentsForm.cs",
+              "ToolTip": "C:\\Users\\bogda\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmin\u0027\\c\u002B\u002B\\HostelDB\\HostelDB\\TableForms\\ResidentsForm.cs",
+              "RelativeToolTip": "HostelDB\\TableForms\\ResidentsForm.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAYwHsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T21:15:47.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaymentsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Users\\bogda\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmin\u0027\\c\u002B\u002B\\HostelDB\\HostelDB\\TableForms\\PaymentsForm.cs",
+              "RelativeDocumentMoniker": "HostelDB\\TableForms\\PaymentsForm.cs",
+              "ToolTip": "C:\\Users\\bogda\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmin\u0027\\c\u002B\u002B\\HostelDB\\HostelDB\\TableForms\\PaymentsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "HostelDB\\TableForms\\PaymentsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T19:10:32.178Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PaymentsForm.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmin\u0027\\c\u002B\u002B\\HostelDB\\HostelDB\\TableForms\\PaymentsForm.cs",
+              "RelativeDocumentMoniker": "HostelDB\\TableForms\\PaymentsForm.cs",
+              "ToolTip": "C:\\Users\\bogda\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmin\u0027\\c\u002B\u002B\\HostelDB\\HostelDB\\TableForms\\PaymentsForm.cs",
+              "RelativeToolTip": "HostelDB\\TableForms\\PaymentsForm.cs",
+              "ViewState": "AQIAAIYAAAAAAAAAAAAUwJsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T19:15:49.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RoomForm.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmin\u0027\\c\u002B\u002B\\HostelDB\\HostelDB\\TableForms\\RoomForm.cs",
+              "RelativeDocumentMoniker": "HostelDB\\TableForms\\RoomForm.cs",
+              "ToolTip": "C:\\Users\\bogda\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmin\u0027\\c\u002B\u002B\\HostelDB\\HostelDB\\TableForms\\RoomForm.cs",
+              "RelativeToolTip": "HostelDB\\TableForms\\RoomForm.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAArwHUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T18:56:33.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ResidentsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Users\\bogda\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmin\u0027\\c\u002B\u002B\\HostelDB\\HostelDB\\TableForms\\ResidentsForm.cs",
+              "RelativeDocumentMoniker": "HostelDB\\TableForms\\ResidentsForm.cs",
+              "ToolTip": "C:\\Users\\bogda\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmin\u0027\\c\u002B\u002B\\HostelDB\\HostelDB\\TableForms\\ResidentsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "HostelDB\\TableForms\\ResidentsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T21:54:38.72Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegestrationsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Users\\bogda\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmin\u0027\\c\u002B\u002B\\HostelDB\\HostelDB\\TableForms\\RegestrationsForm.cs",
+              "RelativeDocumentMoniker": "HostelDB\\TableForms\\RegestrationsForm.cs",
+              "ToolTip": "C:\\Users\\bogda\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmin\u0027\\c\u002B\u002B\\HostelDB\\HostelDB\\TableForms\\RegestrationsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "HostelDB\\TableForms\\RegestrationsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T22:29:27.069Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StaffForm.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmin\u0027\\c\u002B\u002B\\HostelDB\\HostelDB\\TableForms\\StaffForm.cs",
+              "RelativeDocumentMoniker": "HostelDB\\TableForms\\StaffForm.cs",
+              "ToolTip": "C:\\Users\\bogda\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmin\u0027\\c\u002B\u002B\\HostelDB\\HostelDB\\TableForms\\StaffForm.cs",
+              "RelativeToolTip": "HostelDB\\TableForms\\StaffForm.cs",
+              "ViewState": "AQIAAJEAAAAAAAAAAAAvwJ0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T18:41:36.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ResidentsForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmin\u0027\\c\u002B\u002B\\HostelDB\\HostelDB\\TableForms\\ResidentsForm.Designer.cs",
+              "RelativeDocumentMoniker": "HostelDB\\TableForms\\ResidentsForm.Designer.cs",
+              "ToolTip": "C:\\Users\\bogda\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmin\u0027\\c\u002B\u002B\\HostelDB\\HostelDB\\TableForms\\ResidentsForm.Designer.cs",
+              "RelativeToolTip": "HostelDB\\TableForms\\ResidentsForm.Designer.cs",
+              "ViewState": "AQIAAHQAAAAAAAAAAAAUwIIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T21:54:41.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegestrationsForm.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmin\u0027\\c\u002B\u002B\\HostelDB\\HostelDB\\TableForms\\RegestrationsForm.cs",
+              "RelativeDocumentMoniker": "HostelDB\\TableForms\\RegestrationsForm.cs",
+              "ToolTip": "C:\\Users\\bogda\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmin\u0027\\c\u002B\u002B\\HostelDB\\HostelDB\\TableForms\\RegestrationsForm.cs",
+              "RelativeToolTip": "HostelDB\\TableForms\\RegestrationsForm.cs",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAUwJcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T22:29:08.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PassesForm.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmin\u0027\\c\u002B\u002B\\HostelDB\\HostelDB\\TableForms\\PassesForm.cs",
+              "RelativeDocumentMoniker": "HostelDB\\TableForms\\PassesForm.cs",
+              "ToolTip": "C:\\Users\\bogda\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmin\u0027\\c\u002B\u002B\\HostelDB\\HostelDB\\TableForms\\PassesForm.cs",
+              "RelativeToolTip": "HostelDB\\TableForms\\PassesForm.cs",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAIwHkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T23:00:21.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PassesForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Users\\bogda\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmin\u0027\\c\u002B\u002B\\HostelDB\\HostelDB\\TableForms\\PassesForm.cs",
+              "RelativeDocumentMoniker": "HostelDB\\TableForms\\PassesForm.cs",
+              "ToolTip": "C:\\Users\\bogda\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmin\u0027\\c\u002B\u002B\\HostelDB\\HostelDB\\TableForms\\PassesForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "HostelDB\\TableForms\\PassesForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T22:52:54.699Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmin\u0027\\c\u002B\u002B\\HostelDB\\HostelDB\\TableForms\\Inventory.cs",
+              "RelativeDocumentMoniker": "HostelDB\\TableForms\\Inventory.cs",
+              "ToolTip": "C:\\Users\\bogda\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmin\u0027\\c\u002B\u002B\\HostelDB\\HostelDB\\TableForms\\Inventory.cs",
+              "RelativeToolTip": "HostelDB\\TableForms\\Inventory.cs",
+              "ViewState": "AQIAAHQAAAAAAAAAAADwv3wAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T22:01:32.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MaintanceForm.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmin\u0027\\c\u002B\u002B\\HostelDB\\HostelDB\\TableForms\\MaintanceForm.cs",
+              "RelativeDocumentMoniker": "HostelDB\\TableForms\\MaintanceForm.cs",
+              "ToolTip": "C:\\Users\\bogda\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmin\u0027\\c\u002B\u002B\\HostelDB\\HostelDB\\TableForms\\MaintanceForm.cs",
+              "RelativeToolTip": "HostelDB\\TableForms\\MaintanceForm.cs",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAIwH4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T19:43:08.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MaintanceForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Users\\bogda\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmin\u0027\\c\u002B\u002B\\HostelDB\\HostelDB\\TableForms\\MaintanceForm.cs",
+              "RelativeDocumentMoniker": "HostelDB\\TableForms\\MaintanceForm.cs",
+              "ToolTip": "C:\\Users\\bogda\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmin\u0027\\c\u002B\u002B\\HostelDB\\HostelDB\\TableForms\\MaintanceForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "HostelDB\\TableForms\\MaintanceForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T19:43:29.2Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Inventory.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Users\\bogda\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmin\u0027\\c\u002B\u002B\\HostelDB\\HostelDB\\TableForms\\Inventory.cs",
+              "RelativeDocumentMoniker": "HostelDB\\TableForms\\Inventory.cs",
+              "ToolTip": "C:\\Users\\bogda\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmin\u0027\\c\u002B\u002B\\HostelDB\\HostelDB\\TableForms\\Inventory.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "HostelDB\\TableForms\\Inventory.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T21:54:43.449Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RoomForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Users\\bogda\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmin\u0027\\c\u002B\u002B\\HostelDB\\HostelDB\\TableForms\\RoomForm.cs",
+              "RelativeDocumentMoniker": "HostelDB\\TableForms\\RoomForm.cs",
+              "ToolTip": "C:\\Users\\bogda\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmin\u0027\\c\u002B\u002B\\HostelDB\\HostelDB\\TableForms\\RoomForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "HostelDB\\TableForms\\RoomForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T20:21:47.948Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StaffForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Users\\bogda\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmin\u0027\\c\u002B\u002B\\HostelDB\\HostelDB\\TableForms\\StaffForm.cs",
+              "RelativeDocumentMoniker": "HostelDB\\TableForms\\StaffForm.cs",
+              "ToolTip": "C:\\Users\\bogda\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmin\u0027\\c\u002B\u002B\\HostelDB\\HostelDB\\TableForms\\StaffForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "HostelDB\\TableForms\\StaffForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T19:35:32.366Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RulesForm.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmin\u0027\\c\u002B\u002B\\HostelDB\\HostelDB\\TableForms\\RulesForm.cs",
+              "RelativeDocumentMoniker": "HostelDB\\TableForms\\RulesForm.cs",
+              "ToolTip": "C:\\Users\\bogda\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmin\u0027\\c\u002B\u002B\\HostelDB\\HostelDB\\TableForms\\RulesForm.cs",
+              "RelativeToolTip": "HostelDB\\TableForms\\RulesForm.cs",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAgwJMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T20:20:15.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RulesForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Users\\bogda\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmin\u0027\\c\u002B\u002B\\HostelDB\\HostelDB\\TableForms\\RulesForm.cs",
+              "RelativeDocumentMoniker": "HostelDB\\TableForms\\RulesForm.cs",
+              "ToolTip": "C:\\Users\\bogda\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmin\u0027\\c\u002B\u002B\\HostelDB\\HostelDB\\TableForms\\RulesForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "HostelDB\\TableForms\\RulesForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T20:21:13.261Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmin\u0027\\c\u002B\u002B\\HostelDB\\HostelDB\\Program.cs",
+              "RelativeDocumentMoniker": "HostelDB\\Program.cs",
+              "ToolTip": "C:\\Users\\bogda\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmin\u0027\\c\u002B\u002B\\HostelDB\\HostelDB\\Program.cs",
+              "RelativeToolTip": "HostelDB\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T18:31:37.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DB.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmin\u0027\\c\u002B\u002B\\HostelDB\\HostelDB\\DB.cs",
+              "RelativeDocumentMoniker": "HostelDB\\DB.cs",
+              "ToolTip": "C:\\Users\\bogda\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmin\u0027\\c\u002B\u002B\\HostelDB\\HostelDB\\DB.cs",
+              "RelativeToolTip": "HostelDB\\DB.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T16:18:14.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MenuForm.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmin\u0027\\c\u002B\u002B\\HostelDB\\HostelDB\\MainForm\\MenuForm.cs",
+              "RelativeDocumentMoniker": "HostelDB\\MainForm\\MenuForm.cs",
+              "ToolTip": "C:\\Users\\bogda\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmin\u0027\\c\u002B\u002B\\HostelDB\\HostelDB\\MainForm\\MenuForm.cs",
+              "RelativeToolTip": "HostelDB\\MainForm\\MenuForm.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAQwEwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T18:30:31.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MenuForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Users\\bogda\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmin\u0027\\c\u002B\u002B\\HostelDB\\HostelDB\\MainForm\\MenuForm.cs",
+              "RelativeDocumentMoniker": "HostelDB\\MainForm\\MenuForm.cs",
+              "ToolTip": "C:\\Users\\bogda\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmin\u0027\\c\u002B\u002B\\HostelDB\\HostelDB\\MainForm\\MenuForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "HostelDB\\MainForm\\MenuForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T22:20:59.22Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MaintanceForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmin\u0027\\c\u002B\u002B\\HostelDB\\HostelDB\\TableForms\\MaintanceForm.Designer.cs",
+              "RelativeDocumentMoniker": "HostelDB\\TableForms\\MaintanceForm.Designer.cs",
+              "ToolTip": "C:\\Users\\bogda\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmin\u0027\\c\u002B\u002B\\HostelDB\\HostelDB\\TableForms\\MaintanceForm.Designer.cs",
+              "RelativeToolTip": "HostelDB\\TableForms\\MaintanceForm.Designer.cs",
+              "ViewState": "AQIAAMoAAAAAAAAAAAAwwPkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T19:43:19.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "StaffForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmin\u0027\\c\u002B\u002B\\HostelDB\\HostelDB\\TableForms\\StaffForm.Designer.cs",
+              "RelativeDocumentMoniker": "HostelDB\\TableForms\\StaffForm.Designer.cs",
+              "ToolTip": "C:\\Users\\bogda\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmin\u0027\\c\u002B\u002B\\HostelDB\\HostelDB\\TableForms\\StaffForm.Designer.cs",
+              "RelativeToolTip": "HostelDB\\TableForms\\StaffForm.Designer.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAADgv08AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T19:40:40.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MenuForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmin\u0027\\c\u002B\u002B\\HostelDB\\HostelDB\\MainForm\\MenuForm.Designer.cs",
+              "RelativeDocumentMoniker": "HostelDB\\MainForm\\MenuForm.Designer.cs",
+              "ToolTip": "C:\\Users\\bogda\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmin\u0027\\c\u002B\u002B\\HostelDB\\HostelDB\\MainForm\\MenuForm.Designer.cs",
+              "RelativeToolTip": "HostelDB\\MainForm\\MenuForm.Designer.cs",
+              "ViewState": "AQIAAN8AAAAAAAAAAAAowOoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T18:38:13.166Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
